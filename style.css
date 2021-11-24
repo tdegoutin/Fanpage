@@ -11,10 +11,10 @@ h3{
 }
 
 p.couplet{
-    color:rgb(122, 112, 14);
+    color:rebeccapurple;
 }
 
 p.refrain{
-    color:rgb(102, 140, 190);
+    color:tomato;
     font-style: italic;
 }
