@@ -14,9 +14,14 @@ h3{
 
 p.couplet{
     color:rebeccapurple;
+    text-align: center;
 }
 
 p.refrain{
     color:tomato;
     font-style: italic;
+    text-align: center;
+}
+img{
+    text-align: center;
 }
