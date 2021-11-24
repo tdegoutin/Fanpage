@@ -1,20 +1,20 @@
 h1{
-color:midnightblue;
+color:rgb(17, 17, 199);
 }
 
 h2{
-color:darkred;
+color:rgb(211, 21, 21);
 }
 
 h3{
-    color:teal;
+    color:rgb(25, 182, 182);
 }
 
 p.couplet{
-    color:lemonchiffon;
+    color:rgb(122, 112, 14);
 }
 
 p.refrain{
-    color:lightsteelblue;
+    color:rgb(102, 140, 190);
     font-style: italic;
 }
