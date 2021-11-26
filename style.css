@@ -66,3 +66,7 @@ p.texte-mention{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
 }
+p.text-disco{
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
