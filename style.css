@@ -1,13 +1,13 @@
 
 h1{
-color:rgb(17, 17, 199);
+color: #2a5294;
 text-align: center;
 font-size: 50px;
 font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 h2{
-color:rgb(211, 21, 21);
+color: #e1755e;
 text-align: center;
 font-size: 35px ;
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -15,10 +15,10 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 h3{
-    color:rgb(25, 182, 182);
-    font-size:25px;
+    color: #a2cdb8;
+    font-size:30px;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    text-decoration:underline;
+    
 }
 
 h4{
@@ -26,12 +26,12 @@ h4{
 }
 
 p.couplet{
-    color:rebeccapurple;
+    color:#5d554b;
     text-align: center;
 }
 
 p.refrain{
-    color:tomato;
+    color:#e1755e;
     font-style: italic;
     text-align: center;
 }
